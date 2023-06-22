@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/06a38k4n9ts5nkgt?svg=true)](https://ci.appveyor.com/project/Ymapoff/dz-2-f781r)
+[![Build status](https://ci.appveyor.com/api/projects/status/up02oj7k5ql4o8up?svg=true)](https://ci.appveyor.com/project/Ymapoff/dz-2)
